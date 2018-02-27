@@ -1,0 +1,53 @@
+{
+    "types": [
+        {
+            "name": "所有文件类型",
+            "suffix": []
+        },
+        {
+            "name": "java文件",
+            "suffix": ".java",
+            "comment": ["//", "/*multi*/", "/**multi*/"]
+        },
+        {
+            "name": "xml文件",
+            "suffix": ".xml",
+            "comment": ["<!--single-->"]
+        },
+        {
+            "name": "python文件",
+            "suffix": ".py",
+            "comment": ["#", "'''multi'''"]
+        },
+        {
+            "name": "html文件",
+            "suffix": ".html",
+            "comment": ["//", "<!--single-->", "/*multi*/", "/**multi*/"]
+        },
+        {
+            "name": "lua文件",
+            "suffix": ".lua",
+            "comment": ["--"]
+        },
+        {
+            "name": "C#文件",
+            "suffix": ".cs",
+            "comment": ["//","/*multi*/"]
+        },
+        {
+            "name": "PHP文件",
+            "suffix": ".php",
+            "comment": ["//", "/*multi*/", "/**multi*/"]
+        },
+        {
+            "name": "Javascript文件",
+            "suffix": ".js",
+            "comment": ["//", "/*multi*/", "/**multi*/"]
+        },
+        {
+            "name": "CSS文件",
+            "suffix": ".css",
+            "comment": ["/*multi*/", "/**multi*/"]
+        }
+    ]
+}
